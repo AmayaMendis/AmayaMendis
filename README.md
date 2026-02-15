@@ -18,11 +18,6 @@
     <img src="https://skillicons.dev/icons?i=html,css,js,python,java,vscode,git,github&theme=dark" />
   </a>
 </p>
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=AmayaMendis&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Amaya's Stats" />
-
 <br>
 
 ### 📬 Let's Connect
