@@ -1,16 +1,38 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**AmayaMendis/AmayaMendis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hello!+I'm+Amaya+Mendis;Student+@+Londontec+City+Campus;Future+Software+Engineer" alt="Typing SVG" />
+</a>
 
-Here are some ideas to get you started:
+<p align="center">
+ <b>Student | Tech Enthusiast | Nugegoda, Sri Lanka</b><br>
+ I am currently exploring the world of technology and building my coding foundation.<br>
+ <i>"Turning coffee into code."</i> ☕
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 💻 Tech Stack
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,python,java,vscode,git,github&theme=dark" />
+  </a>
+</p>
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=AmayaMendis&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Amaya's Stats" />
+
+<br>
+
+### 📬 Let's Connect
+<p align="center">
+  <a href="mailto:amayamendis695@gmail.com">
+    <img src="https://img.shields.io/badge/Email-amayamendis695-blue?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+</div>
